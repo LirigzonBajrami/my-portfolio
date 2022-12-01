@@ -1,0 +1,22 @@
+.nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-weight: 600;
+  width: 100%;
+  min-height: 60px;
+  gap: 20px;
+}
+
+.nav-links a {
+  color: #fff;
+}
+
+.nav-links a:hover {
+  color: #ccc;
+}
+
+.navbar {
+  background-color: #112d4e;
+}

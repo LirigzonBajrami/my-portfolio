@@ -1,0 +1,12 @@
+.card-img {
+  height: 120px;
+}
+
+.detail-button {
+  background-color: #112d4e;
+  border: none;
+}
+
+.detail-button:hover {
+  background-color: #0e243e;
+}

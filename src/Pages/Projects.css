@@ -1,0 +1,17 @@
+.projects {
+  padding: 68px 0;
+}
+
+.projects h1 {
+  text-align: center;
+  color: #112d4e;
+  padding-bottom: 22px;
+}
+
+.project-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 22px;
+  flex-wrap: wrap;
+}

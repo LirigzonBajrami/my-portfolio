@@ -1,0 +1,26 @@
+.project {
+  padding: 78px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.project img {
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.project a {
+  font-size: 38px;
+  color: #112d4e;
+}
+
+.project p {
+  padding: 10px 0;
+  font-weight: 500;
+}
+
+.project h1 {
+  color: #112d4e;
+}

@@ -1,0 +1,62 @@
+.home-container {
+  background-color: #e1e5ee;
+  color: #112d4e;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 130px 10px;
+}
+
+.about h3 {
+  font-size: 48px;
+  text-align: center;
+}
+
+.prompt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.prompt a {
+  color: #112d4e;
+}
+
+.prompt p {
+  font-size: 18px;
+}
+
+.prompt div {
+  font-size: 28px;
+  display: flex;
+  gap: 20px;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 80px;
+  border-top: 1px solid #112d4e;
+}
+
+.skills h1 {
+  margin-bottom: 22px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 48px;
+}
+
+.item span {
+  font-size: 18px;
+}
