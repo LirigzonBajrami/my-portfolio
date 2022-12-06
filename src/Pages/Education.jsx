@@ -17,7 +17,7 @@ const Education = () => {
         >
           <h5 className="vertical-timeline-element-title">
             {" "}
-            Computer Science student at UBT college, Prishtina
+            Computer Science and Engineering student at UBT college, Prishtina
           </h5>
           <p></p>
         </VerticalTimelineElement>
