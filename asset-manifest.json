@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.a7ca5b2f.css",
-    "main.js": "/my-portfolio/static/js/main.67aa085e.js",
+    "main.js": "/my-portfolio/static/js/main.84f95f39.js",
     "static/media/movie-rating-img.webp": "/my-portfolio/static/media/movie-rating-img.3a640fdc272838479a93.webp",
     "static/media/eat-smart-img.webp": "/my-portfolio/static/media/eat-smart-img.bc6b5a314e62a7021ae6.webp",
     "static/media/trusted-news-img.webp": "/my-portfolio/static/media/trusted-news-img.527a19230e285c0e0136.webp",
@@ -10,10 +10,10 @@
     "static/media/todo-list-img.webp": "/my-portfolio/static/media/todo-list-img.00dc64432246a15d072b.webp",
     "index.html": "/my-portfolio/index.html",
     "main.a7ca5b2f.css.map": "/my-portfolio/static/css/main.a7ca5b2f.css.map",
-    "main.67aa085e.js.map": "/my-portfolio/static/js/main.67aa085e.js.map"
+    "main.84f95f39.js.map": "/my-portfolio/static/js/main.84f95f39.js.map"
   },
   "entrypoints": [
     "static/css/main.a7ca5b2f.css",
-    "static/js/main.67aa085e.js"
+    "static/js/main.84f95f39.js"
   ]
 }
