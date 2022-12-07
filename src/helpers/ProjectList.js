@@ -4,6 +4,7 @@ import trustedNews from "../assets/trusted-news-img.webp";
 import todoList from "../assets/todo-list-img.webp";
 import movieRating from "../assets/movie-rating-img.webp";
 import eatSmart from "../assets/eat-smart-img.webp";
+import exerciseImg from "../assets/exerciseImg.webp";
 
 export const projectList = [
   {
@@ -11,6 +12,12 @@ export const projectList = [
     image: techStore,
     stack: "MongoDb, Node.js, Express.js, React.js",
     github: "https://github.com/LirigzonBajrami/E-commerce-MERN-TechStore",
+  },
+  {
+    name: "Exercise App",
+    image: exerciseImg,
+    stack: "MongoDb, Node.js, Express.js, React.js",
+    github: "https://github.com/LirigzonBajrami/exercise-app",
   },
   {
     name: "Coca Cola",
