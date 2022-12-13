@@ -1,20 +1,39 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.a7ca5b2f.css",
-    "main.js": "/my-portfolio/static/js/main.105b79ee.js",
+    "main.css": "/my-portfolio/static/css/main.214c07bc.css",
+    "main.js": "/my-portfolio/static/js/main.1064209f.js",
     "static/media/movie-rating-img.webp": "/my-portfolio/static/media/movie-rating-img.3a640fdc272838479a93.webp",
+    "static/media/testimonials.webp": "/my-portfolio/static/media/testimonials.da1211ef8a9f04ca5084.webp",
+    "static/media/emp.webp": "/my-portfolio/static/media/emp.478b14a87d0504c08041.webp",
+    "static/media/blogs.webp": "/my-portfolio/static/media/blogs.a69771acb826e27ca7e7.webp",
+    "static/media/london-blog.webp": "/my-portfolio/static/media/london-blog.cb2bc4aaf0d20e917fd3.webp",
+    "static/media/meals.webp": "/my-portfolio/static/media/meals.19a577412dde25049e34.webp",
+    "static/media/signupEat.webp": "/my-portfolio/static/media/signupEat.6f0a3559c01276d1254a.webp",
     "static/media/eat-smart-img.webp": "/my-portfolio/static/media/eat-smart-img.bc6b5a314e62a7021ae6.webp",
     "static/media/trusted-news-img.webp": "/my-portfolio/static/media/trusted-news-img.527a19230e285c0e0136.webp",
+    "static/media/movieDetailImg.webp": "/my-portfolio/static/media/movieDetailImg.2b62f59e14300e445a14.webp",
+    "static/media/coca-cola-history.webp": "/my-portfolio/static/media/coca-cola-history.ac372be25c47a01207b4.webp",
     "static/media/coca-cola-img.webp": "/my-portfolio/static/media/coca-cola-img.1d177b829e86471a7540.webp",
+    "static/media/brands.webp": "/my-portfolio/static/media/brands.7162d300ee20aa9f1cf2.webp",
     "static/media/tech-store-img.webp": "/my-portfolio/static/media/tech-store-img.6b537f9a9f6814bcf8fc.webp",
+    "static/media/techDetails.webp": "/my-portfolio/static/media/techDetails.cf631dc96133751a3385.webp",
+    "static/media/pricing.webp": "/my-portfolio/static/media/pricing.f8142984daadea9b1fb5.webp",
+    "static/media/create-blog.png": "/my-portfolio/static/media/create-blog.df11aa18f7707f3d9704.png",
+    "static/media/cartTech.webp": "/my-portfolio/static/media/cartTech.65a8f0f460433ba013a0.webp",
+    "static/media/loginTech.webp": "/my-portfolio/static/media/loginTech.bfa4e696ebdcadbd573e.webp",
+    "static/media/signExer.png": "/my-portfolio/static/media/signExer.1618ce94ae7cc059a941.png",
+    "static/media/loginExer.png": "/my-portfolio/static/media/loginExer.ec41228aaec7aa8150a6.png",
+    "static/media/ordersumary.webp": "/my-portfolio/static/media/ordersumary.3bc5975f0e52469a2827.webp",
+    "static/media/registerTech.webp": "/my-portfolio/static/media/registerTech.9903a74675628f1f3efa.webp",
     "static/media/exerciseImg.webp": "/my-portfolio/static/media/exerciseImg.039251d45133f7840860.webp",
+    "static/media/agent.webp": "/my-portfolio/static/media/agent.5b0a2ca8e57c4eeb12db.webp",
     "static/media/todo-list-img.webp": "/my-portfolio/static/media/todo-list-img.00dc64432246a15d072b.webp",
     "index.html": "/my-portfolio/index.html",
-    "main.a7ca5b2f.css.map": "/my-portfolio/static/css/main.a7ca5b2f.css.map",
-    "main.105b79ee.js.map": "/my-portfolio/static/js/main.105b79ee.js.map"
+    "main.214c07bc.css.map": "/my-portfolio/static/css/main.214c07bc.css.map",
+    "main.1064209f.js.map": "/my-portfolio/static/js/main.1064209f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7ca5b2f.css",
-    "static/js/main.105b79ee.js"
+    "static/css/main.214c07bc.css",
+    "static/js/main.1064209f.js"
   ]
 }
