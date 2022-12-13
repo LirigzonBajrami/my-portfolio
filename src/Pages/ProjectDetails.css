@@ -24,3 +24,10 @@
 .project h1 {
   color: #112d4e;
 }
+
+.project div,
+.other-imgs {
+  margin-bottom: 22px;
+  padding: 20px 0;
+  border-bottom: 1px solid #ccc;
+}

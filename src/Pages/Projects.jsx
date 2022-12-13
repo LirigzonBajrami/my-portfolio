@@ -19,6 +19,7 @@ const Projects = () => {
                 image={project.image}
                 stack={project.stack}
                 id={index}
+                key={index}
               />
             );
           })}

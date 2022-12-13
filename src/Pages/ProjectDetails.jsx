@@ -12,7 +12,14 @@ const ProjectDetails = () => {
     <Container>
       <div className="project">
         <h1>Project Name: {project.name}</h1>
-        <img src={project.image} />
+        <div>
+          <img src={project.image} />
+        </div>
+
+        {project.otherImages?.map((image, index) => (
+          <img className="other-imgs" key={index} src={image}></img>
+        ))}
+
         <p>
           <strong>Stack: </strong>
           {project.stack}
